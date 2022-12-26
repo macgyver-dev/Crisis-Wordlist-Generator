@@ -1,20 +1,6 @@
 # Crisis Wordlist Generator
 
-Work on Windows, Debian and Kali Linux. Please reading  <a href="https://github.com/teeknofil/Crisis-Wordlist-Generator/wiki"> Wiki</a>
-
-# Install in Linux
-
-* [Warning, install mono before.](https://youtu.be/9TqwB1mj9_0)
-
-* [Install Crisis Wordlist Generator in Linux](https://youtu.be/88RBHHNkgE0)
-
-# Donations : Crisis Wordlist Generator
-
-If you like this project, you can contribute by a donation :smile:
-
-Need a new option, donate and make your request.
-
-Bitcoin : 1NmgotukmYRoBxx3BFHPxVZGdPhDwoerRh
+Work on Windows, Debian and Kali Linux. 
 
 # Run
 <pre style=" border: 1px solid black; padding:10px">
