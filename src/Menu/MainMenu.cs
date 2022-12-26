@@ -1,5 +1,5 @@
 ﻿//  Author:
-//       Teeknofil <teeknofil@gmail.com>
+//       Julien Dubromez<j.dubromez.it@gmail.com>
 //
 //  Copyright (c) 2015 Teeknofil
 //
@@ -48,20 +48,11 @@ namespace crisis
         }
         
 
-        internal  void Start()
-        {           
-            Console.WriteLine("\n Hacking US   : hackforums.net ");
-            Console.WriteLine(" Trouble US   : forums.kali.org"); 
-            Console.WriteLine(" Hacking FR   : hackademics.fr");
-            Console.WriteLine(" Trouble FR   : kali-linux.fr/forum");
-            Console.WriteLine(" Hacking Wifi : crack-wifi.com/forum\n");        
-        }
-
         public static void Version()
         {
             Console.ResetColor();
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("\n Crisis Wordlist Generator  by Teeknofil, version : 1.1.3 Beta \n");
+            Console.WriteLine("\n Crisis Wordlist Generator  by Julien Dubromez, version : 1.1.3 \n");
             Console.ResetColor();
         }
 

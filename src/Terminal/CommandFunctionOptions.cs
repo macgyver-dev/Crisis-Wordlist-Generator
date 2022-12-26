@@ -1,5 +1,5 @@
 ﻿//  Author:
-//       Teeknofil <teeknofil@gmail.com>
+//       Julien Dubromez<j.dubromez.it@gmail.com>
 //
 //  Copyright (c) 2015 Teeknofil
 //

@@ -15,7 +15,7 @@ namespace crisis
             MainMenu.BooleanCategoryMenu = true;
 
             MainMenu runMenu = new MainMenu();
-            runMenu.Start();
+           
             runMenu.Menu();
             
             FilesNameDirectory os = new FilesNameDirectory();
@@ -102,7 +102,7 @@ namespace crisis
                     if (options.Disables == false)
                     {
                         MainMenu runMenu = new MainMenu();
-                        runMenu.Start();
+                        
                         info.StatiscalInfoSize();
                     }
     
@@ -154,7 +154,7 @@ namespace crisis
                     if (options.Disables == false)
                     {
                         MainMenu runMenu = new MainMenu();
-                        runMenu.Start();
+                        
                         info.StatiscalInfoSize();
                     }
     
@@ -193,7 +193,7 @@ namespace crisis
                     if (options.Disables == false)
                     {
                         MainMenu runMenu = new MainMenu();
-                        runMenu.Start();
+                        
                         info.StatiscalInfoSize();
                     }
     
@@ -237,7 +237,7 @@ namespace crisis
                     if (options.Disables == false)
                     {
                         MainMenu runMenu = new MainMenu();
-                        runMenu.Start();
+                        
                         info.StatiscalInfoSize();
                     }
     
@@ -282,7 +282,7 @@ namespace crisis
                     if (options.Disables == false)
                     {
                         MainMenu runMenu = new MainMenu();
-                        runMenu.Start();
+                        
                         info.StatiscalInfoSize();
                     }
     
